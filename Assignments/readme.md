@@ -1,1 +1,5 @@
+Assignment 1 : Basics of Python
+Assignment 2 : Importing the necessary libraries
+Assignment 3 : Building CNN Model 
+Assignment 4 : Adding CNN layers and Training ,Compiling & Testing the model
 
